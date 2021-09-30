@@ -23,6 +23,7 @@ resolucion de evaluacion practica
   2.7 Utiliza GET.
   
   2.8 Las estructuras de datos en JSON son los objetos enceraado entre *{objeto}* y los \[array] en XML estas mismas estructuras se encierran entre etiquetas al estilo HTML             ejemplos:
+         
          XML:
               <EjXML>
                 <alumnos>
