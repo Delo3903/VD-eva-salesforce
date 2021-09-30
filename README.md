@@ -38,6 +38,8 @@ resolucion de evaluacion practica
                 <alumnos>
               <EjXML>
               
+------------------------ 
+         
          JSON:
               <EjJSON>
                 "alumnos":  [
@@ -59,5 +61,7 @@ resolucion de evaluacion practica
   2.10 *REST* es una tecnología mucho más flexible que transporta datos por medio del protocolo HTTP, pero este permite utilizar los diversos verbos que proporciona HTTP para          comunicarse y utiliza los responseCode nativos de HTTP. *RESTful* es un servicio web basado en *REST*.
                 
   2.11 Los headers transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El  Content-Type se utiliza para indicar el tipo de medio        del recurso. Por ejemplo para el archivo de imagen, su tipo de medio será como image / png o image / jpg, etc.
+  
+  --------
                 
   3.3 Las diferencias que se observan son que dado que en el item anterior se hizo un POST con nuetsros datos al realizar nuevamente un GET a la misma url se puede observar como       se obtuvieron los datos previamente insertados.
