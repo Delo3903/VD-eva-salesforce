@@ -76,25 +76,28 @@ resolucion de evaluacion practica
   
   --------
   
-  ![Diagrama](https://user-images.githubusercontent.com/84874555/135632596-8e941c7c-53a4-499d-bfad-beb9a606cd6e.jpg)
-  ![alt text](shorturl.at/gEOX8)
+  ![Diagrama](https://user-images.githubusercontent.com/84874555/135633073-75eb6ea3-dad0-41f2-b979-cafacfff14fe.jpg)
   
-  5.1 Lead: 
+  5.1 Lead: Una *lead* es un objeto predeterminado que se crea cuando se recibe nueva información de contacto en su base de datos.
   
-  5.2 Account: 
+  5.2 Account: Una *account* representa una cuenta de cliente individual, una organización o un socio involucrado con el negocio. Almacenan todos los detalles de la cuenta         relacionados con su negocio, como Clientes y Competidores.
   
-  5.3 Contact: 
+  5.3 Contact: Los *contacts* en *Salesforce* almacenan información de las personas, como números de teléfono y direcciones de correo electrónico, y están vinculados a                 *account*. Si un *contact* no está vinculado a una *account*, entonces es un *contact* "privado" y solo lo puede ver el propietario del mismo o el administrador.
   
-  5.4 Opportunity: 
+  5.4 Opportunity: En *Salesforce*, una *opportunity* es una venta o un trato pendiente. Varias *opportunity* conforman su canal de ventas, lo que contribuye a su pronóstico de       ventas.
   
-  5.5 Product: 
+  5.5 Product: Los *products* son los artículos y servicios que vende a los clientes.
   
-  5.6 Pricebook: 
+  5.6 Pricebook: Un *pricebook* es una lista de *productos* y sus precios.
   
-  5.7 Quote: Resumen activable de las oportunidades de marketing, sales/ventas, support/soporte
+  5.7 Quote: Las *quotes* en *Salesforce* representan los precios propuestos de los productos y servicios de su empresa. Creas una *quote* a partir de una *oportunidad* y sus         productos. Cada *oportunidad* puede tener varias *quotes* asociadas y cualquiera de ellas se puede sincronizar con la *oportunidad*.
   
-  5.8 Asset: 
+  5.8 Asset: Un *asset* en *Salesforce* representa un producto específico comprado o instalado. Pudiendo rastrear los activos de sus clientes en *Salesforce*, puede ver y             registrar fácilmente el cronograma de compra de cada *asset*, el historial de mantenimiento y más. Puede asociar *asset* con varios *registros de Salesforce* además de           productos.
   
-  5.9 Case: 
+  5.9 Case: Un *case* es una pregunta, un comentario o un problema de un cliente. Los agentes de soporte pueden revisar los *cases* para ver cómo pueden brindar un mejor               servicio. Los representantes de ventas pueden usar *cases* para ver cómo afectan el proceso de ventas.
   
-  5.10 Article: 
+  5.10 Article: la base de *salesforce knowledge* se crea a partir de *artículos de knowledge*, que son documentos de información. Los artículos pueden incluir información sobre        el proceso, por ejemplo cómo restablecer su producto a sus valores predeterminados, o preguntas frecuentes, como la cantidad de almacenamiento que admite su                      producto.
+
+  --------
+  
+  
