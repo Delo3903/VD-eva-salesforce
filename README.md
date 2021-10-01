@@ -140,34 +140,34 @@ resolucion de evaluacion practica
   
   7.2-O *Chatter* es una aplicacion colaborativa en tiempo real de *Salesforce* que permite a los usuarios poder hablar entre ellos, compartir informacion, trabajar en conjunto,         entre muchas mas cosas. 
   
-  7.3-A 
+  7.3-A *"SaaS"* significa *"Software as a Service"*(software como servicio), esto es un producto que brinda una empresa, en forma de servicio, un ejemplo pueden ser google, con         su amplio repertorio de aplicaciones o microsoft con el office 365.
   
-  7.3-B 
+  7.3-B *Salesforce* es, efectivamente, un *SaaS*.
   
-  7.3-C 
+  7.3-C Que una solucion sea *"Cloud"* quiere decir que no es necesario estar en un ordenador para poder trabajar, si no que con tener acceso a internet y a la nube, se puede           trabajar perfectamente.
   
-  7.3-D 
+  7.3-D *"On-Premise"* hace referencia a que el software esta trabajando de manera local, con una infraestructura preparada para sopportar el software.
   
-  7.3-E 
+  7.3-E un *pipeline* de ventas es un mapa que muestra el trabajo continuo que un representante comercial lleva a cabo diariamente, demostrando todas las etapas de las                   negociaciones.
   
-  7.3-F 
+  7.3-F Un *Funnel* de ventas es un sistema que esta ideado para conseguir *leads* a partir de desconocidos y lograr que se vuelvan clientes.
   
-  7.3-G 
+  7.3-G *"Customer experience"* significa literalmente *"experiencia del consumidor"* y esto hace referencia al proceso que experimenta al usuario, idealmente se quiere lograr           una impresion muy buena, provocando que el usuario en un futuro vuelva a ser cliente, divulgue el servicio/producto que ofrece la empresa y su calidad, etc.
   
-  7.3-H 
+  7.3-H La *omnicanalidad* es una estrategia que se basa en mantener el contacto con el cliente por medio de distintos canales o medio de comunicacion.
   
-  7.3-I 
+  7.3-I *B2B* significa *"buisness to buisness"* y esto quiere decir que la empresa esta trabajando para otorgar un producto/servicio a otra empresa.
   
-  7.3-J 
+  7.3-J *B2C* significa *"buisness to consumer"*, a diferencia de lo explicado en el punto anterior, el objetivo es brindarle un producto/servicio al consumidor final.
   
-  7.3-K 
+  7.3-K *KPI* es *"key performance indicators"* y en español son los *"indicadores clave de desempeño"*, que hace referencia a todas las variables, factores y unidades de medida         para poder lograr una estrategia de marketing.
   
-  7.3-L 
+  7.3-L una *REST API* es un estilo de arquitectura WEB que maneja el comportamiento de clientes y servidores, en cambio una *API* es un conjunto general de protocolos que se           implementan sobre el software para que interactue con otro software. una *API* PUEDE ser *REST*, pero una *REST API* es siempre una *API*.
   
-  7.3-M 
+  7.3-M Un proceso *batch* o *por lotes* es la ejecucion de un programa sin la necesidad de un usuario que lo supervise, ni que interaccione.
   
-  7.3-N 
+  7.3-N *Kanban* es un metodo de organizacion que se centra en las entregas justo a tiempo (mientras los miembros no se sobrecarguen).
   
-  7.3-O 
+  7.3-O El *enterprise resource planning* o *ERP* es un tipo de software que utilizan las empresas para administrar sus actividades diarias, proyectos, gestion de riesgos,               operaciones de la cadena de suministro, entre mas cosas.
   
-  7.3-P  
+  7.3-P *Salesforce* NO es un sistema ERP
