@@ -100,4 +100,74 @@ resolucion de evaluacion practica
 
   --------
   
+  7.1-A *Salesforce* es una plataforma de *gestion de relaciones con el cliente* (CRM).
   
+  7.1-B *Sales Cloud* es una aplicacion basada en la nube, diseñada para ayudar a sus vendedores a trabajar de una manera mas inteligente y agil, centralizando la informacion            del cliente.
+  
+  7.1-C *Service Cloud* permite a los usuarios automatizar los procesos de servicio, optimizar los flujos de trabajo y encontrar artículos, temas y expertos de servicio al               cliente.
+  
+  7.1-D *Health Cloud* es un sistema CRM de salud que incorpora servicios de gestión de registros y relación médico-paciente.
+  
+  7.1-E *Marketing Cloud* es una plataforma de marketing que es capaz de analizar datos de muchas facetas del marketing.
+  
+  7.2-A En *Salesforce*, los *RecordTypes* permiten tener diferentes procesos comerciales, valores de listas de selección y diseños de página para diferentes usuarios según el           perfil.
+  
+  7.2-B Un *ReportType* es una plantilla que define los objetos y campos que estarán disponibles para usar en el informe que se vaya a crear.
+  
+  7.2-C El *PageLayout* nos permite personalizar el diseño y organización de los detalles y editar páginas de registros en *Salesforce*.
+  
+  7.2-D *CompactLayout* muestra los campos clave de un registro de manera simple en la aplicación móvil *Salesforce*, Lightning Experience y en las integraciones de Outlook y           Gmail.
+  
+  7.2-E Un *Perfil* define cómo los usuarios acceden a los objetos y datos, y qué pueden hacer dentro de la aplicación. Cuando se crean usuarios, se les asigna un perfil a cada         uno.
+  
+  7.2-F Los *roles* se definen para aumentar la visibilidad de los datos que tiene un usuario en particular. La visibilidad de los datos se puede aumentar utilizando reglas para         compartir o construyendo una *jerarquía de roles*. La *jerarquía de roles* permite al usuario que posee un nivel superior tener acceso a los registros que pertenecen a           los usuarios que tienen un rol más bajo en la jerarquía.
+  
+  7.2-G Una *validation Rule* verifica que los datos que un usuario ingresa en un registro cumplen con los estándares que se especifiquen antes de que el usuario pueda guardar           el registro.
+  
+  7.2-H La relacion *lookup* no depende de nada, en cambio el *master-detail* esta asociado directamente a otros registros.
+  
+  7.2-I Las *sandbox* son réplicas de la *organización*. No contienen datos reales ni usuarios activos.
+  
+  7.2-J Los *ChangeSet* se usan para enviar personalizaciones de una organización de *Salesforce* a otra.
+  
+  7.2-K El *import wizard* facilita la importacion de datos para muchos objetos estandar de *Salesforce* y tambien para objetos personalizados.
+  
+  7.2-L *Web to Lead* permite diseñar un formulario incluyendo las preguntas más adecuadas para cada tipo de negocio con el objetivo de insertarlo en un blog o una web                   corporativa, automatizando así la captación de *leads* y la integración de los datos de los usuarios en el CRM.
+  
+  7.2-M *Web to Case* permite a los usuarios enviar un formunlario simple y customizable para solicitar soporte.
+  
+  7.2-N *Omnichannel* permite que los agentes indiquen cuando estan disponibles para trabajar y por que canales de servicio, facilitando el trabajo a los supervisores ya que             tienen acceso facil y rapido a esta información.
+  
+  7.2-O *Chatter* es una aplicacion colaborativa en tiempo real de *Salesforce* que permite a los usuarios poder hablar entre ellos, compartir informacion, trabajar en conjunto,         entre muchas mas cosas. 
+  
+  7.3-A 
+  
+  7.3-B 
+  
+  7.3-C 
+  
+  7.3-D 
+  
+  7.3-E 
+  
+  7.3-F 
+  
+  7.3-G 
+  
+  7.3-H 
+  
+  7.3-I 
+  
+  7.3-J 
+  
+  7.3-K 
+  
+  7.3-L 
+  
+  7.3-M 
+  
+  7.3-N 
+  
+  7.3-O 
+  
+  7.3-P  
