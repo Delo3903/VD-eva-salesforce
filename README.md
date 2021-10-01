@@ -77,6 +77,7 @@ resolucion de evaluacion practica
   --------
   
   ![Diagrama](https://user-images.githubusercontent.com/84874555/135632596-8e941c7c-53a4-499d-bfad-beb9a606cd6e.jpg)
+  ![alt text](shorturl.at/gEOX8)
   
   5.1 Lead: 
   
