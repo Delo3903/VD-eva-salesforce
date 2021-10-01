@@ -63,5 +63,17 @@ resolucion de evaluacion practica
   2.11 Los headers transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El  Content-Type se utiliza para indicar el tipo de medio        del recurso. Por ejemplo para el archivo de imagen, su tipo de medio será como image / png o image / jpg, etc.
   
   --------
-                
+  
+  ![3_1](https://user-images.githubusercontent.com/84874555/135533818-31059dcb-f68f-4161-8f05-d128c1c8bab4.PNG)
+  ![3_2](https://user-images.githubusercontent.com/84874555/135533812-a44cd62e-8af5-40be-8bd3-c3768264ab2d.PNG)
+  ![3_3](https://user-images.githubusercontent.com/84874555/135533821-beed2a82-e18a-452b-9efb-441dc816d3d3.PNG)
+  
   3.3 Las diferencias que se observan son que dado que en el item anterior se hizo un POST con nuetsros datos al realizar nuevamente un GET a la misma url se puede observar como       se obtuvieron los datos previamente insertados.
+
+  --------
+  
+  4 
+  
+  --------
+  
+  5.
