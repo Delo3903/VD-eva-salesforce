@@ -76,4 +76,22 @@ resolucion de evaluacion practica
   
   --------
   
-  5.
+  5.1 Lead: 
+  
+  5.2 Account: 
+  
+  5.3 Contact: 
+  
+  5.4 Opportunity: 
+  
+  5.5 Product: 
+  
+  5.6 Pricebook: 
+  
+  5.7 Quote: Resumen activable de las oportunidades de marketing, sales/ventas, support/soporte
+  
+  5.8 Asset: 
+  
+  5.9 Case: 
+  
+  5.10 Article: 
