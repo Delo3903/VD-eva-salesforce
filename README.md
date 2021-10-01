@@ -170,4 +170,5 @@ resolucion de evaluacion practica
   
   7.3-O El *enterprise resource planning* o *ERP* es un tipo de software que utilizan las empresas para administrar sus actividades diarias, proyectos, gestion de riesgos,               operaciones de la cadena de suministro, entre mas cosas.
   
-  7.3-P *Salesforce* NO es un sistema ERP
+  7.3-P *Salesforce* NO es un sistema ERP.
+  
