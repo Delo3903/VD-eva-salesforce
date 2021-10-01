@@ -110,6 +110,8 @@ resolucion de evaluacion practica
   
   7.1-E *Marketing Cloud* es una plataforma de marketing que es capaz de analizar datos de muchas facetas del marketing.
   
+-------
+  
   7.2-A En *Salesforce*, los *RecordTypes* permiten tener diferentes procesos comerciales, valores de listas de selección y diseños de página para diferentes usuarios según el           perfil.
   
   7.2-B Un *ReportType* es una plantilla que define los objetos y campos que estarán disponibles para usar en el informe que se vaya a crear.
@@ -139,6 +141,8 @@ resolucion de evaluacion practica
   7.2-N *Omnichannel* permite que los agentes indiquen cuando estan disponibles para trabajar y por que canales de servicio, facilitando el trabajo a los supervisores ya que             tienen acceso facil y rapido a esta información.
   
   7.2-O *Chatter* es una aplicacion colaborativa en tiempo real de *Salesforce* que permite a los usuarios poder hablar entre ellos, compartir informacion, trabajar en conjunto,         entre muchas mas cosas. 
+  
+-------
   
   7.3-A *"SaaS"* significa *"Software as a Service"*(software como servicio), esto es un producto que brinda una empresa, en forma de servicio, un ejemplo pueden ser google, con         su amplio repertorio de aplicaciones o microsoft con el office 365.
   
