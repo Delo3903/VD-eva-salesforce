@@ -100,6 +100,42 @@ resolucion de evaluacion practica
 
   --------
   
+ Trigger:
+ 
+     trigger EmailFiller on Contact (before insert, before update) {
+        for(contact a:trigger.new){
+            if(a.idvirtualdreams__c == 'MkyJ5YiAohGO65dsKDm'){
+                WSHelper.WSContact();
+            }
+        }
+     }
+ 
+ --------
+ 
+ Clase:
+  
+      global with sharing class WSHelper{
+        @future(callout=true)
+        public static Void WScontact(){
+            String Email;
+            Http http = new Http();
+            HttpRequest request = new Httprequest();
+            request.setEndpoint('https://vdfactory-234311.firebaseio.com/contacts.json');
+            request.setMethod('GET');
+            HttpResponse response = http.send(request);
+            if (response.getStatusCode() == 200){
+                map<string, object> r = (map<string, object>)
+                    JSON.deserializeUntyped(response.getBody());
+                map<string, object> mail = (map<string, object>)r.get('MkyJ5YiAohGO65dsKDm');
+                Email = string.valueof(mail.get('email'));
+            }
+        }
+      }
+  
+  (Perdon, este codigo realmente no funciona como debe ni llega a cumplir la consigna, no logro encontrar la forma de que se ejecute correctamente)
+  
+  --------
+  
   7.1-A *Salesforce* es una plataforma de *gestion de relaciones con el cliente* (CRM).
   
   7.1-B *Sales Cloud* es una aplicacion basada en la nube, diseñada para ayudar a sus vendedores a trabajar de una manera mas inteligente y agil, centralizando la informacion            del cliente.
@@ -175,4 +211,5 @@ resolucion de evaluacion practica
   7.3-O El *enterprise resource planning* o *ERP* es un tipo de software que utilizan las empresas para administrar sus actividades diarias, proyectos, gestion de riesgos,               operaciones de la cadena de suministro, entre mas cosas.
   
   7.3-P *Salesforce* NO es un sistema ERP.
+  
   
